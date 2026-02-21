@@ -4,7 +4,7 @@ This repository serves as my personal knowledge base for Cloud Security. I am do
 
 *Note: Some of my initial study materials are in German, but I am transitioning my documentation to English to align with industry standards.*
 
-Knowledge Base
+Knowledge Base:
 Check out my detailed technical notes here:
 (1.) [Networking Foundations](./networking.md)
 
