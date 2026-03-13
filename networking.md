@@ -22,7 +22,7 @@ Subnet Mask Example:
   /16 (Binary: 11111111.11111111.00000000.00000000)
 Address Calculation:
   Total Addresses: 2^16 = 65,536 
-  Usable Hosts: $2^n - 2 (Total addresses minus Network ID and Broadcast ID)
+  Usable Hosts: 2^n - 2 (Total addresses minus Network ID and Broadcast ID)
   Example Result: 65,534 usable host IPs.
 Key Components:
   Network Portion: The fixed part of the address (the "Street").
