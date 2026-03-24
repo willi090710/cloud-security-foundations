@@ -1,17 +1,19 @@
-#Cloud Security Foundations
+# Cloud Security Foundations
 
-This repository serves as my personal knowledge base for Cloud Security. I am documenting my progress from the basics of networking to advanced cloud security implementations.
+## Overview
+Notes and concepts for building a foundation in cloud security.
 
-*Note: Some of my initial study materials are in German, but I am transitioning my documentation to English to align with industry standards.*
+## Topics
+- Cloud basics (AWS/Azure concepts)  
+- Security principles  
+- Identity & access management  
+- Networking in the cloud  
 
-Knowledge Base:
-Check out my detailed technical notes here:
-(1.) [Networking Foundations](./networking.md)
+## Progress
+- [ ] Basic concepts  
+- [ ] IAM  
+- [ ] Cloud networking  
+- [ ] Security best practices  
 
-Current Focus: Networking (Layer 3)
-I started by digitizing my handwritten notes on IP addressing. Understanding the difference between IPv4 and IPv6 is the first step in securing cloud infrastructures.
-
-Key Topics covered:
-IPv4 vs. IPv6: Addressing structures and bit-counts.
-Public vs. Private IPs: Identification of local network ranges (10.x, 172.x, 192.168.x).
-OSI Model: Deep dive into the Network Layer.
+## Goal
+Develop a strong understanding of cloud security fundamentals for future practical projects.
